@@ -1,1 +1,9 @@
-# k3s
+1. [Install K3s](#-install-k3s)  
+2. [Configure kubectl](#-configure-kubectl)  
+3. [Build and push container images](#-build-and-push-container-images)  
+4. [Configure PostgreSQL on host](#-configure-postgresql-on-host)  
+5. [Create ConfigMap and Secret](#-create-configmap-and-secret)  
+6. [Persistent storage (PVC)](#-persistent-storage-pvc)  
+7. [Deploy application](#-deploy-application)  
+8. [Ingress & TLS](#-ingress--tls)  
+9. [MetalLB (bare-metal load balancer)](#-metallb-bare-metal-load-balancer)  
